@@ -1,7 +1,10 @@
-![Banner](https://img.freepik.com/foto-gratis/laptop-pantalla-brillante-mesa-espacio-copia-vista-superior-oscura_169016-51607.jpg?semt=ais_hybrid&w=740&q=80)
+
 
 # 👨‍💻 ¡Hola! Johan Neira
 ## Estudiante de Ingeniería en Ejecución Informática | Full-Stack Developer en formación
+
+
+![Banner](https://preview.redd.it/enrhxagpzgo91.jpg?auto=webp&s=4241679407bfa0ac80abe071ca187a763f872771)
 <!--
 **RojoMax12/RojoMax12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
