@@ -1,6 +1,6 @@
 
 
-# 👨‍💻 ¡Hola! Johan Neira
+# 👨‍💻 ¡Hola! Soy Johan Neira
 ## Estudiante de Ingeniería en Ejecución Informática | Full-Stack Developer en formación
 
 
