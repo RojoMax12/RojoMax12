@@ -74,9 +74,11 @@ Reescritura modular del sistema con:
 * Dockerización completa
 
 ## 📊 Estadísticas de GitHub
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=RojoMax12&show_icons=true&count_private=true&theme=tokyonight" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RojoMax12&layout=compact&theme=tokyonight" /> </div>7
+
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=RojoMax12&show_icons=true&count_private=true&theme=tokyonight" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RojoMax12&layout=compact&theme=tokyonight" /> </div>
 
 ## 🏆 Trofeos
+
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RojoMax12&theme=onedark&no-frame=true&margin-w=10" /> </div>
 🔗 Conéctemos
 
